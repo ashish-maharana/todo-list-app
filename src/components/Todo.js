@@ -11,7 +11,7 @@ const Todo = () => {
     return (
         <>
             <div class="w-100 container">
-                <span class="h1 d-flex justify-content-center">TODO APP BY &nbsp;<a href='https://ashish-maharana.github.io/'>@ASHISH MAHARANA</a></span>
+                <span class="h1 d-flex justify-content-center">TODO APP BY &nbsp;<a target="_blank" rel="noreferrer" href='https://ashish-maharana.github.io/'>@ASHISH MAHARANA</a></span>
             </div>
             <div className='main-div'>
                 <div className='child-div'>
